@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "stripe": "^15.4.0",
+    "@stripe/stripe-js": "^1.54.0"
+    
+  }
+}
